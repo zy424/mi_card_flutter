@@ -1,0 +1,4 @@
+#Thu Apr 21 14:06:41 NZST 2022
+base.0=/Users/zhy/Documents/flutter/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
